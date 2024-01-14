@@ -1,2 +1,1 @@
-[InternetShortcut]
-URL=https://github.com/TTGGHHgjkG/chat-swing-with-nodejs/blob/main/server/Procfile
+web: node index.js
