@@ -1,2 +1,15 @@
-[InternetShortcut]
-URL=https://github.com/TTGGHHgjkG/chat-swing-with-nodejs/blob/main/server/package.json
+{
+  "name": "server-chat",
+  "version": "1.0.0",
+  "description": "socket-io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raven",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
